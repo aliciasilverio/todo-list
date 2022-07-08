@@ -1,15 +1,15 @@
-/* @import url('https://fonts.googleapis.com/css?family=Raleway|Droid+Sans|Roboto+Slab:400,700');
+ @import url('https://fonts.googleapis.com/css?family=Raleway|Droid+Sans|Roboto+Slab:400,700');
 * {
     font-family: 'Raleway';
     font-weight: 700;
 } */
 
-/* body {
+body {
     margin: 0;
     padding: 0;
     background-color: #88d8b0;
     overflow: hidden !important;
-} */
+} 
 
 .box {
     position: relative;
@@ -209,7 +209,7 @@ animate button with .rotate .rotate_button {
     }
 }
 
-/* @keyframes rotate_back {
+ @keyframes rotate_back {
     from {
         transform: rotateZ(360deg);
         -webkit-transform: rotateZ(360deg);
@@ -218,4 +218,4 @@ animate button with .rotate .rotate_button {
         transform: rotateZ(0deg);
         -webkit-transform: rotateZ(0deg);
     }
-} */
+} 
