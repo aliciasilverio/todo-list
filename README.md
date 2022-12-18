@@ -1,7 +1,5 @@
 ## TO-DO List
 
-You can use the [editor on GitHub](https://github.com/aliciasilverio/todo-list/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
 "To-Do List" is a professional and user-friendly web application that allows individuals to organize and manage their daily tasks. It is responsive and built with HTML, CSS, and JavaScript to provide a seamless and intuitive user experience.
 
 Users can add tasks to their list by simply entering the task details into the designated field and clicking a button. The app will then display the task on the list, allowing the user to easily keep track of their to-do items. Tasks can also be removed from the list by clicking a button, allowing the user to easily mark tasks as completed.
