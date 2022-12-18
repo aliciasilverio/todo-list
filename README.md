@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## TO-DO List
 
 You can use the [editor on GitHub](https://github.com/aliciasilverio/todo-list/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"To-Do List" is a professional and user-friendly web application that allows individuals to organize and manage their daily tasks. It is responsive and built with HTML, CSS, and JavaScript to provide a seamless and intuitive user experience.
 
-### Markdown
+Users can add tasks to their list by simply entering the task details into the designated field and clicking a button. The app will then display the task on the list, allowing the user to easily keep track of their to-do items. Tasks can also be removed from the list by clicking a button, allowing the user to easily mark tasks as completed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In addition to adding and removing tasks, the app also allows users to prioritize their tasks by dragging and dropping them into the desired order. This feature helps users prioritize and plan their day, ensuring that they stay on track and accomplish their most important tasks first.
 
-```markdown
-Syntax highlighted code block
+Overall, "To-Do List" is a reliable and efficient tool for individuals looking to increase productivity and stay organized.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aliciasilverio/todo-list/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Check out the [site!](https://aliciasilverio.github.io/todo-list/)
